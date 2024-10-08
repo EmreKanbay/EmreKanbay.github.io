@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fatiha :: My New Hugo Site</title>
+    <title>Fatiha Suresi</title>
     <link>http://localhost:1313/fatiha-suresi/index.html</link>
     <description>1. Ayet 2. Ayet 3. Ayet 4. Ayet 5. Ayet 6. Ayet 7. Ayet</description>
     <generator>Hugo</generator>
