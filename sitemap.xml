@@ -1,25 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/bakara-suresi/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bakara-suresi/1/index.html</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/fatiha-suresi/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/fatiha-suresi/1/index.html</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/bakara-suresi/2/index.html</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/fatiha-suresi/2/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bakara-suresi/3/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/fatiha-suresi/3/index.html</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/bakara-suresi/4/index.html</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/fatiha-suresi/4/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bakara-suresi/5/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/fatiha-suresi/5/index.html</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/bakara-suresi/6/index.html</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/fatiha-suresi/6/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bakara-suresi/7/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/fatiha-suresi/7/index.html</loc>
